@@ -1,6 +1,6 @@
 # _Favorite Band Website_
 
-#### _HTML and CSS Epicodus Project for Div and Span Styling, March 18, 2020_
+#### _HTML and CSS Epicodus Project for Div and Span Styling with Floats, March 18, 2020_
 
 #### By _**Jessica Hvozdovich and Matt Stroud**_
 
