@@ -1,0 +1,26 @@
+body {
+  background: #111111;
+  color: white;
+  color: white;
+}
+
+.header{
+  text-align: center;
+}
+
+.shows {
+  width: 30%; 
+  float: left;
+  border-style: dotted;
+  border-width: 1px;
+  border-color: white;
+}
+
+
+
+.pictures {
+  width: 300px;
+  height: auto;
+  float: right;
+}
+
